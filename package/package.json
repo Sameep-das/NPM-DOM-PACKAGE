@@ -1,6 +1,6 @@
 {
   "name": "@sameep21/dom-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"Contains helper functions for manipulating document tree. Easy to Use.",
   "main": "index.js",
   "repository": {
