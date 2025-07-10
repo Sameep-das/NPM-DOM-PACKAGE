@@ -1,0 +1,14 @@
+{
+  "name": "dom-helper",
+  "version": "1.0.0",
+  "description": "\"Contains helper functions for manipulating document tree. Easy to Use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DOM"
+  ],
+  "author": "Sameep DAs",
+  "license": "ISC"
+}
